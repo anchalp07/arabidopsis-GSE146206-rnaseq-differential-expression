@@ -1,0 +1,15 @@
+# Temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+.ipynb_checkpoints/
+
+# Large raw datasets
+data/raw/
+
+# Temporary outputs
+*.tmp
+*.log
