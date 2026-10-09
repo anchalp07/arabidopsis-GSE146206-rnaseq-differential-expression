@@ -1,0 +1,7 @@
+"Package","Version"
+"DESeq2","1.52.0"
+"ggplot2","4.0.3"
+"clusterProfiler","4.20.2"
+"org.At.tair.db","3.22.0"
+"enrichplot","1.32.1"
+"readxl","1.5.0.1"
